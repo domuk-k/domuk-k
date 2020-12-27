@@ -13,9 +13,11 @@ Jamstack, UXUI, Affordance, N-tier Architecture Deployment etc.
 스타트업 투자/심의, 사업 개발을 경험했습니다.<br/>
 우여곡절 썰, 새로 등장한 서비스, 어디 투자받았다더라 하는 잡담도 즐깁니다.
 
+---
+
 ## 언어와 툴
 
-- **Working on :**
+**자주 쓰는 기술**
 
 <img align="left" width="30px" alt="Javascript" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg"/>
 <img align="left" width="30px" alt="HTML5" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"/>
@@ -30,6 +32,6 @@ Jamstack, UXUI, Affordance, N-tier Architecture Deployment etc.
 
 etc.
 
-- **Experienced or Studying:**
+**경험했고, 공부 중인 기술**
 
 Vue.js | Next.js | AWS | MobX | Docker | Jest | Python
