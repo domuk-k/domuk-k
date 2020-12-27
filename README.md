@@ -32,8 +32,7 @@ Jamstack, UXUI, Affordance, N-tier Architecture Deployment etc.
 
 etc.
 
-<br/>
 
-### 자주 쓰고 싶은 기술
+### 경험했거나 학습 중인 기술
 
 Vue.js | Next.js | AWS | MobX | Docker | Jest | Python
