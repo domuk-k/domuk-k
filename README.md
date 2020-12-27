@@ -17,7 +17,7 @@ Jamstack, UXUI, Affordance, N-tier Architecture Deployment etc.
 
 ## 언어와 툴
 
-**자주 쓰는 기술**
+### 자주 쓰는 기술
 
 <img align="left" width="30px" alt="Javascript" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg"/>
 <img align="left" width="30px" alt="HTML5" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"/>
@@ -32,6 +32,8 @@ Jamstack, UXUI, Affordance, N-tier Architecture Deployment etc.
 
 etc.
 
-**경험했고, 공부 중인 기술**
+<br/>
+
+### 자주 쓰고 싶은 기술
 
 Vue.js | Next.js | AWS | MobX | Docker | Jest | Python
