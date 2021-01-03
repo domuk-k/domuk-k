@@ -19,16 +19,7 @@ Jamstack, UXUI, Affordance, N-tier Architecture Deployment etc.
 
 ### 자주 쓰는 기술
 
-<img align="left" width="30px" alt="Javascript" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg"/>
-<img align="left" width="30px" alt="HTML5" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"/>
-<img align="left" width="30px" alt="SASS" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg"/>
-<img align="left" width="30px" alt="Typescript" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"/>
-<img align="left" width="30px" alt="React" src="https://devicon.dev/devicon.git/icons/react/react-original.svg"/>
-<img align="left" width="30px" alt="redux" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg"/>
-<img align="left" width="30px" alt="styled-component" src="https://spectrum.imgix.net/communities/e8792514-dc32-43ff-a26e-81c85754f193/test.png.0.3184486404030735?w=256&h=256&dpr=2&auto=compress&expires=1600041600000&ixlib=js-1.3.0&s=7d25e5629376af9dcd15048fd55f14c3"/>
-<img align="left" width="30px" alt="express" src="https://devicon.dev/devicon.git/icons/express/express-original.svg"/>
-<img align="left" width="30px" alt="mongodb" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-plain.svg"/>
-<img align="left" height="27px" alt="figma" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"/>
+Javascript | HTML5 | SASS | Typescript | React | Redux | styled-component | express | mongodb | figma
 
 etc.
 
